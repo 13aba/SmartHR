@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+python-docx
+jsbeautifier
+langchain
+langchain-openai
+langchain-community
+python-multipart
+pypdf
